@@ -5,19 +5,15 @@
 
 [INSERT IMAGE]
 
-[LINK TO CV]
+[CV](https://drive.google.com/file/d/18aViA5QG89MLEbm3MfcqSv-FTdiWoZeZ/view?usp=share_link)
 
-[LINK TO OSF]
+[OSF](https://osf.io/fcg7k/)
 
-[LINK TO GOOGLE SCHOLAR]
+[GOOGLE SCHOLAR](https://scholar.google.com/citations?user=iJ4Tsg0AAAAJ&hl=en)
 
-[LINK TO ORCiD]
+[ORCiD](https://orcid.org/0000-0001-8146-0233)
 
-[LINK TO RESEARCH GATE]
-
-[LINK TO BOOK A MEETING]
-
-[LINK TO DISCLAIMER]
+[DISCLAIMER]
 
 ## Bio
 
