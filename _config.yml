@@ -1,1 +1,5 @@
-theme: jekyll-theme-hitchens
+$ gem install hitchens-theme
+gem "hitchens-theme"
+theme: hitchens-theme
+ignore_theme_config: true
+$ bundle
