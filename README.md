@@ -1,19 +1,22 @@
 # Dale Metcalfe
-##### Applied research in Developmental Disabilities
-###### Northumbria University, Newcastle upon Tyne, UK
-###### dale.r.metcalfe@northumbria.ac.uk
+#### Applied research in Developmental Disabilities
 
 [INSERT IMAGE]
 
-[CV](https://drive.google.com/file/d/18aViA5QG89MLEbm3MfcqSv-FTdiWoZeZ/view?usp=share_link)
+##### Northumbria University, Newcastle upon Tyne, UK
+##### dale.r.metcalfe@northumbria.ac.uk
 
-[OSF](https://osf.io/fcg7k/)
 
-[GOOGLE SCHOLAR](https://scholar.google.com/citations?user=iJ4Tsg0AAAAJ&hl=en)
 
-[ORCiD](https://orcid.org/0000-0001-8146-0233)
+###### [CV](https://drive.google.com/file/d/18aViA5QG89MLEbm3MfcqSv-FTdiWoZeZ/view?usp=share_link)
 
-[DISCLAIMER]
+###### [OSF](https://osf.io/fcg7k/)
+
+###### [GOOGLE SCHOLAR](https://scholar.google.com/citations?user=iJ4Tsg0AAAAJ&hl=en)
+
+###### [ORCiD](https://orcid.org/0000-0001-8146-0233)
+
+###### [DISCLAIMER]
 
 ## Bio
 
@@ -35,21 +38,21 @@ Workforce development for staff working with autistic people and people with lea
 
 #### Peer-Reviewed Journal Articles
 
-McKenzie, K., Murray, G., Martin, R., & Metcalfe, D. (2023). Knowledge of social care staff about learning disability: 20 years on. Learning Disability Practice, 26(2). https://doi.org/10.7748/ldp.2022.e2182
+McKenzie, K., Murray, G., Martin, R., & Metcalfe, D. (2023). Knowledge of social care staff about learning disability: 20 years on. Learning Disability Practice, 26(2). [doi.org/10.7748/ldp.2022.e2182](https://doi.org/10.7748/ldp.2022.e2182)
 
-McKenzie, K., Metcalfe, D., & Murray, A. L. (2023). Screening for intellectual disability in autistic people: A brief report. Research in Autism Spectrum Disorders, 100. https://doi.org/10.1016/j.rasd.2022.102076
+McKenzie, K., Metcalfe, D., & Murray, A. L. (2023). Screening for intellectual disability in autistic people: A brief report. Research in Autism Spectrum Disorders, 100. [doi.org/10.1016/j.rasd.2022.102076](https://doi.org/10.1016/j.rasd.2022.102076)
 
-Greer, J. M. H., Sood, S. S. M., & Metcalfe, D. R. (2022, Dec). Perceptions of autism spectrum disorder among the Swahili community on the Kenyan coast. Res Dev Disabil, 131, 104370. https://doi.org/10.1016/j.ridd.2022.104370
+Greer, J. M. H., Sood, S. S. M., & Metcalfe, D. R. (2022, Dec). Perceptions of autism spectrum disorder among the Swahili community on the Kenyan coast. Res Dev Disabil, 131, 104370. [doi.org/10.1016/j.ridd.2022.104370](https://doi.org/10.1016/j.ridd.2022.104370)
 
-Metcalfe, D., McKenzie, K., McCarty, K., Pollet, T. V., & Murray, G.C. (2022). An exploration of the impact of contextual information on the emotion recognition ability of autistic adults. International Journal of Psychology. https://doi.org/10.1002/ijop.12834. Impact factor: 2.000.
+Metcalfe, D., McKenzie, K., McCarty, K., Pollet, T. V., & Murray, G.C. (2022). An exploration of the impact of contextual information on the emotion recognition ability of autistic adults. International Journal of Psychology. [doi.org/10.1002/ijop.12834](https://doi.org/10.1002/ijop.12834])
 
 McKenzie, K., Murray, G., Metcalfe, D., Murray, A. L., Whelan, K.,  Martin, R. (2022) Predicting staff turnover in learning disability social care services Learning Disability Practice 25 (3)
 
 McKenzie, K., Murray, G.C., Martin, R., & Metcalfe, D. (2022). Knowledge of learning disability: Twenty years on. Learning Disability Practice.
 
-McKenzie, K., Murray, G., Martin, R., Murray, A., & Metcalfe, D. (2021).  A quantitative evaluation of a regional Positive Behavioural Support workforce development approach. Journal of Applied Research in Intellectual Disabilities. doi.org/10.1111/jar.12915.
+McKenzie, K., Murray, G., Martin, R., Murray, A., & Metcalfe, D. (2021).  A quantitative evaluation of a regional Positive Behavioural Support workforce development approach. Journal of Applied Research in Intellectual Disabilities. doi.org/10.1111/jar.12915](https://doi.org/10.1111/jar.12915)
 
-Murray, G.C., McKenzie, K., Metcalfe, D., Whelan, K., & Murray, A.L. (2021). Exploring the relative importance of factors that influence the job retention of social care staff working in intellectual disability services. British Journal of Learning Disabilities. doi.org/10.1111/bld.12365. Impact factor: 0.922.
+Murray, G.C., McKenzie, K., Metcalfe, D., Whelan, K., & Murray, A.L. (2021). Exploring the relative importance of factors that influence the job retention of social care staff working in intellectual disability services. British Journal of Learning Disabilities. [doi.org/10.1111/bld.12365](https://doi.org/10.1111/bld.12365)
 
 McKenzie, K., Metcalfe, D., Whelan, K., & McNall, A. (2021) Improving recruitment and retention in learning disability services. Nursing Times. 117 (4), 26-29. 
 
