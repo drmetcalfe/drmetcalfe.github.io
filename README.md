@@ -16,7 +16,7 @@
 
 ###### [ORCiD](https://orcid.org/0000-0001-8146-0233)
 
-###### [DISCLAIMER]
+###### [DISCLAIMER](https://drmetcalfe.github.io/disclaimer.md)
 
 ## Bio
 
@@ -44,7 +44,7 @@ McKenzie, K., Metcalfe, D., & Murray, A. L. (2023). Screening for intellectual d
 
 Greer, J. M. H., Sood, S. S. M., & Metcalfe, D. R. (2022, Dec). Perceptions of autism spectrum disorder among the Swahili community on the Kenyan coast. Res Dev Disabil, 131, 104370. [doi.org/10.1016/j.ridd.2022.104370](https://doi.org/10.1016/j.ridd.2022.104370)
 
-Metcalfe, D., McKenzie, K., McCarty, K., Pollet, T. V., & Murray, G.C. (2022). An exploration of the impact of contextual information on the emotion recognition ability of autistic adults. International Journal of Psychology. [doi.org/10.1002/ijop.12834](https://doi.org/10.1002/ijop.12834])
+Metcalfe, D., McKenzie, K., McCarty, K., Pollet, T. V., & Murray, G.C. (2022). An exploration of the impact of contextual information on the emotion recognition ability of autistic adults. International Journal of Psychology. [doi.org/10.1002/ijop.12834](https://doi.org/10.1002/ijop.12834)
 
 McKenzie, K., Murray, G., Metcalfe, D., Murray, A. L., Whelan, K.,  Martin, R. (2022) Predicting staff turnover in learning disability social care services Learning Disability Practice 25 (3)
 
