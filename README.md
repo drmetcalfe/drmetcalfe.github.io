@@ -30,9 +30,9 @@ Dale Metcalfe is a Lecturer of Psychology at Northumbria University. He is a mem
 - Assessing the effectiveness of the Child and Adolescent Intellectual Disability Screening Questionnaire (CAIDSQ) in schools, to identify young people with undiagnosed learning disability.
 
 **Previous research has included:**
-Emotion recognition and autism
-Dementia and learning disability
-Workforce development for staff working with autistic people and people with learning disability
+- Emotion recognition and autism
+- Dementia and learning disability
+- Workforce development for staff working with autistic people and people with learning disability
 
 ## Publications
 
