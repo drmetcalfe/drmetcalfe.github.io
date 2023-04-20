@@ -3,3 +3,10 @@ gem "hitchens-theme"
 theme: hitchens-theme
 ignore_theme_config: true
 $ bundle
+
+
+Potential themes:
+
+https://jekyllthemes.io/theme/hitchens
+https://jekyllthemes.io/theme/contrast
+https://jekyllthemes.io/theme/flexible-jekyll
